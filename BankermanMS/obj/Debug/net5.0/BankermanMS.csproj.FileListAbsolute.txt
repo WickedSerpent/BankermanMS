@@ -1,0 +1,16 @@
+/home/wicked/RiderProjects/BankermanMS/BankermanMS/bin/Debug/net5.0/BankermanMS
+/home/wicked/RiderProjects/BankermanMS/BankermanMS/bin/Debug/net5.0/BankermanMS.deps.json
+/home/wicked/RiderProjects/BankermanMS/BankermanMS/bin/Debug/net5.0/BankermanMS.runtimeconfig.json
+/home/wicked/RiderProjects/BankermanMS/BankermanMS/bin/Debug/net5.0/BankermanMS.runtimeconfig.dev.json
+/home/wicked/RiderProjects/BankermanMS/BankermanMS/bin/Debug/net5.0/BankermanMS.dll
+/home/wicked/RiderProjects/BankermanMS/BankermanMS/bin/Debug/net5.0/ref/BankermanMS.dll
+/home/wicked/RiderProjects/BankermanMS/BankermanMS/bin/Debug/net5.0/BankermanMS.pdb
+/home/wicked/RiderProjects/BankermanMS/BankermanMS/obj/Debug/net5.0/BankermanMS.csproj.AssemblyReference.cache
+/home/wicked/RiderProjects/BankermanMS/BankermanMS/obj/Debug/net5.0/BankermanMS.GeneratedMSBuildEditorConfig.editorconfig
+/home/wicked/RiderProjects/BankermanMS/BankermanMS/obj/Debug/net5.0/BankermanMS.AssemblyInfoInputs.cache
+/home/wicked/RiderProjects/BankermanMS/BankermanMS/obj/Debug/net5.0/BankermanMS.AssemblyInfo.cs
+/home/wicked/RiderProjects/BankermanMS/BankermanMS/obj/Debug/net5.0/BankermanMS.csproj.CoreCompileInputs.cache
+/home/wicked/RiderProjects/BankermanMS/BankermanMS/obj/Debug/net5.0/BankermanMS.dll
+/home/wicked/RiderProjects/BankermanMS/BankermanMS/obj/Debug/net5.0/ref/BankermanMS.dll
+/home/wicked/RiderProjects/BankermanMS/BankermanMS/obj/Debug/net5.0/BankermanMS.pdb
+/home/wicked/RiderProjects/BankermanMS/BankermanMS/obj/Debug/net5.0/BankermanMS.genruntimeconfig.cache
